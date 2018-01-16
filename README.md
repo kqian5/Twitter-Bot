@@ -1,2 +1,2 @@
 # Twitter-Bot
-Tweets the letters of the alphabet from my twitter account
+Bot that can tweet, follow, and retweet
